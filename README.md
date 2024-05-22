@@ -49,7 +49,7 @@
 <h3>Contributors</h3>
 <ul>
   <li><a href="https://github.com/ChathubhaniNDM">ChathubhaniNDM</a></li>
-  <li><a href="https://github.com/ChathubhaniNDM">PAtumMadhushan</li>
+  <li><a href="https://github.com/PAtumMadhushan">PAtumMadhushan</li>
 </ul>
 </body>
 </html>
