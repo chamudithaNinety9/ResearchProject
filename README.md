@@ -10,7 +10,7 @@
 
 <h2><b>Project Overview</b></h2>
 
-<p>CamperShield is a mobile application focusing on the Meemure Camping area designed to enhance the camping experience by providing tools to ensure safety and increase knowledge about the natural environment.</p>
+<p>CamperShield is a mobile application focusing on the "Meemure Camping area" designed to enhance the camping experience by providing tools to ensure safety and increase knowledge about the natural environment.</p>
 
 <p>The application helps campers identify:</p>
 <ul>
@@ -31,7 +31,6 @@
   <li>Android: Platforms for mobile application deployment.</li>
 </ul>
 
-<p>Safe Bathing Spot Identification:</p>
 <p>Trained multiple classifiers including:</p>
 <ul>
   <li>Random Forest</li>
@@ -48,10 +47,9 @@
 </ul>
 
 <h3>Contributors</h3>
-<p>GitHub usernames of contributors:</p>
 <ul>
-  <li>ChathubhaniNDM</li>
-  <li>PAtumMadhushan</li>
+  <li><a href="https://github.com/ChathubhaniNDM">ChathubhaniNDM</a></li>
+  <li><a href="https://github.com/ChathubhaniNDM">PAtumMadhushan</li>
 </ul>
 </body>
 </html>
