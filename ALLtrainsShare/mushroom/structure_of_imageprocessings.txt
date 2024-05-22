@@ -1,0 +1,9 @@
+app.py
+train.py
+data(folder)
+	test(folder)
+		classes(folder)
+	train(folder)
+		classes(folder)
+uploads(folder)
+models(folder)
